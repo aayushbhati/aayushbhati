@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **aayush.bhati.cseds.2022@miet.ac.in**
+- 📫 How to reach me **aayushbhati397@gmail.com**
 
 - ⚡ Fun fact **I love Instagram Reels.**
 
