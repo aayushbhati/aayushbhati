@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aayushbhati397@gmail.com**
 
-- ⚡ Fun fact **I love Instagram Reels.**
+- ⚡ Fun fact **I love REELS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
