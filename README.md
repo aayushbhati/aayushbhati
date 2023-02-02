@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Bhati</h1>
-<h3 align="center">I am pursuing Batchelor of Technology in Computer Science specializing in Data Science. I am just starting my learning in programming.</h3>
+<h3 align="center">I am pursuing Bachelor of Technology in Computer Science specializing in Data Science. I am just starting my learning in programming.</h3>
 
 - 🌱 I’m currently learning **C++**
 
